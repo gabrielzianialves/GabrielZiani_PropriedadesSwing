@@ -18,7 +18,7 @@ O projeto consiste em 7 exercícios desenvolvidos com a biblioteca Swing de Java
 
 Se você preferir por **clonar** o projeto, pode inserir esse comando no terminal do seu Git instalado:
 ```bash
-git clone https://github.com/gabrielzianialves/GabrielZiani_APISwingJava.git
+git clone https://github.com/gabrielzianialves/GabrielZiani_PropriedadesSwing.git
 ```
 
 Agora, se preferir **baixar** o projeto em arquivo ZIP, siga as seguintes instruções:
